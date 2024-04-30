@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|c:\\users\\julia\\source\\repos\\actividad programacion\\actividad programacion\\views\\mantenimientocargos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\views\\mantenimientocargos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|c:\\users\\julia\\source\\repos\\actividad programacion\\actividad programacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|c:\\users\\julia\\source\\repos\\actividad programacion\\actividad programacion\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\controllers\\cargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|c:\\users\\julia\\source\\repos\\actividad programacion\\actividad programacion\\views\\cargo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\views\\cargo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|c:\\users\\julia\\source\\repos\\actividad programacion\\actividad programacion\\controllers\\mantenimientocargoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\controllers\\mantenimientocargoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|C:\\Users\\julia\\source\\repos\\Actividad Programacion\\actividad programacion\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|C:\\Users\\julia\\source\\repos\\Actividad Programacion\\actividad programacion\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|C:\\Users\\julia\\source\\repos\\Actividad Programacion\\actividad programacion\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5445ED9-18EF-4834-917D-96F4AF7402ED}|Actividad Programacion\\Actividad Programacion.csproj|solutionrelative:actividad programacion\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\MantenimientoCargos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Views\\MantenimientoCargos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\MantenimientoCargos\\Index.cshtml",
+              "RelativeToolTip": "Actividad Programacion\\Views\\MantenimientoCargos\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T01:59:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Actividad Programacion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T03:02:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MantenimientoCargosController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Controllers\\MantenimientoCargosController.cs",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Controllers\\MantenimientoCargosController.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Controllers\\MantenimientoCargosController.cs",
+              "RelativeToolTip": "Actividad Programacion\\Controllers\\MantenimientoCargosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:32:40.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\Cargo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Views\\Cargo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\Cargo\\Index.cshtml",
+              "RelativeToolTip": "Actividad Programacion\\Views\\Cargo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T01:29:22.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CargoController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Controllers\\CargoController.cs",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Controllers\\CargoController.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Controllers\\CargoController.cs",
+              "RelativeToolTip": "Actividad Programacion\\Controllers\\CargoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:16:25.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "Actividad Programacion\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T03:01:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Actividad Programacion\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:48:33.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Actividad Programacion\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Actividad Programacion\\Actividad Programacion\\Models\\Persona.cs",
+              "RelativeToolTip": "Actividad Programacion\\Models\\Persona.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:45:14.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
